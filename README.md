@@ -167,9 +167,5 @@ The system can reveal insights such as:
 
 ## License
 
-This project is for educational and portfolio purposes.
-
-````
-
----
+This project is made by Vikas Singh.(https://github.com/vikas79112)
 
